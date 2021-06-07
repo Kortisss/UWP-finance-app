@@ -1,0 +1,7 @@
+1. Dodawanie zdjęć. <= rezygnujemy ??
+2. SZYFRIWANIE HASŁO
+3. Usuwanie z listy
+4. Wyróżnić kwotę na liście.
+5. Edytacja wprowadzonych danych.
+6. Zakres przedstawiania danych ( od-do )
+
